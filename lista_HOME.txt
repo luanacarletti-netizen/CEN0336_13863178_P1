@@ -1,13 +1,16 @@
-total 44
-drwxr-x--- 6 luana luana 4096 Oct 11 11:39 .
+total 56
+drwxr-x--- 6 luana luana 4096 Oct 14 21:43 .
 drwxr-xr-x 3 root  root  4096 Sep 13 15:07 ..
--rw------- 1 luana luana    8 Sep 13 15:39 .bash_history
+-rw------- 1 luana luana   28 Oct 11 12:29 .bash_history
 -rw-r--r-- 1 luana luana  220 Sep 13 15:07 .bash_logout
 -rw-r--r-- 1 luana luana 3771 Sep 13 15:07 .bashrc
 drwxr-x--- 4 luana luana 4096 Sep 13 15:10 .cache
 drwxr-x--- 3 luana luana 4096 Sep 13 15:10 .config
+-rw-r--r-- 1 luana luana   61 Oct 11 12:02 .gitconfig
 drwxr-xr-x 3 luana luana 4096 Oct 11 11:39 .local
--rw-rw-r-- 1 luana luana    0 Oct 11 11:37 .motd_shown
+-rw-rw-r-- 1 luana luana    0 Oct 14 21:43 .motd_shown
 -rw-r--r-- 1 luana luana  807 Sep 13 15:07 .profile
 -rw-r--r-- 1 luana luana  197 Sep 13 15:25 .python_history
 drwxr-xr-x 3 luana luana 4096 Oct 11 11:58 CEN0336_13863178_P1
+-rw------- 1 luana luana  677 Oct 11 12:29 bash_script.sh.save
+-rw-r--r-- 1 luana luana  819 Oct 14 21:43 lista_HOME.txt
